@@ -6,6 +6,7 @@ Students add a production-quality cache layer to a Django REST API, level by lev
 ---
 # Team Members:
 *** Ralph Yvan Ishimwe ***
+*** Brenda Nyambura Maina ***
 
 A guided hands-on activity for the **Advanced Python Programming**.  
 Students add a production-quality cache layer to a Django REST API, level by level.

@@ -24,6 +24,8 @@ A caching layer for a blog API that handles:
 
 ## Quick Start
 
+**Requirements:** Python 3.12 (Django 5.2 requires Python 3.10+; this project is built/tested on 3.12).
+
 ```bash
 # Clone
 git clone <repo-url>

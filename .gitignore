@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Django local dev database
+db.sqlite3
+db.sqlite3-journal
+
+# OS / editor cruft
+.DS_Store
+.env
